@@ -8,6 +8,7 @@ Olá! Bem-vindo ao meu livro de receitas
 
 - Strogonoff
 - Guacamole
+- Bolo de chocolate
 
 
 
